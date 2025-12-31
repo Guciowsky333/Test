@@ -1,2 +1,2 @@
-print('Kacper')
-print("damian")
+x = input('Podaj imie')
+print(x)
