@@ -6,7 +6,7 @@ print('zmiana_3')
 print('zmiana_4')
 print('zmiana_5')
 print('zmiana_6')
-
 print('zmiana_7')
 print('zmiana_8')
 print('zmiana_9')
+print('zmiana8')
