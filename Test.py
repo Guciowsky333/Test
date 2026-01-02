@@ -1,3 +1,4 @@
+
 print('Kacper')
 print("damian")
 print('zmiana_1')
@@ -10,6 +11,6 @@ print('zmiana_7')
 print('zmiana_8')
 print('zmiana_9')
 
-
-
+x = input('Podaj imie')
+print(x)
 
