@@ -8,4 +8,4 @@ print('zmiana_5')
 print('zmiana_6')
 
 print('zmiana_7')
-print('zmiana8')
+print('zmiana_88')
