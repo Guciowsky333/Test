@@ -6,3 +6,5 @@ print('zmiana_3')
 print('zmiana_4')
 print('zmiana_5')
 print('zmiana_6')
+
+print('zmiana_7')
